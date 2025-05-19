@@ -1,0 +1,13 @@
+Flask==2.3.3
+faster-whisper==1.0.3
+pydub==0.25.1
+werkzeug==3.0.3
+sentencepiece==0.2.0
+flask_cors
+deepfilternet 
+librosa
+soundfile
+torch
+torchaudio
+transformers
+pymongo
